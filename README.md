@@ -1,1 +1,1 @@
-Web Design Homework - Web Visualization Dashboard (Latitude)
+Web Design Homework
